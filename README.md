@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings  👋
 
 
 <h1 align="center">Hi 👋, I'm Christopher Cialone</h1>
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Rust,**
 
-- 👯 I’m looking to collaborate on **Chainlink Labs**
+- 👯 I’m looking to collaborate on **a decentralized application/ system**
 
 - 👨‍💻 All of my projects are available at [www.beresilient.biz](www.beresilient.biz)
 
