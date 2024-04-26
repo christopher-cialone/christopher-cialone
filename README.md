@@ -1,8 +1,8 @@
-### Hi | Ciao | Hola  👋
+### Hi - Ciao - Hola  👋
 
 
-<h1 align="center">Hi 👋, I'm Christopher Cialone</h1>
-<h3 align="center">A tenacious backend developer from New York, America</h3>
+<h1 align="center">👋, I'm Christopher Cialone</h1>
+<h3 align="center">A tenacious backend developer from New York/h3>
 
 - 🌱 I’m currently learning **Rust** 
 
