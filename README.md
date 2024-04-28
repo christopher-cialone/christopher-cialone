@@ -2,7 +2,7 @@
 
 
 <h1 align="center">👋, I'm Christopher Cialone</h1>
-<h3 align="center">A backend developer/freelancer from New York/h3>
+<h3 align="center">A backend developer/freelancer from New York</h3>
 
 - 🌱 I’m currently learning **Rust** 
 
