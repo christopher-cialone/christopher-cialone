@@ -4,15 +4,15 @@
 <h1 align="center">👋, I'm Christopher Cialone</h1>
 <h3 align="center">A backend developer/freelancer from New York</h3>
 
-- 🌱 I’m currently learning **Rust** 
+- ⚡ I’m currently **better than I was yesterday** 
 
-- 👯 I’m looking to collaborate on **a blockchain based project**
+- 👯 I’m looking to collaborate on **decentralized, distributed application & or systems**
 
 - 👨‍💻 All of my projects are available at [www.beresilient.biz](www.beresilient.biz)
 
 - 📝 I regularly write articles on [https://medium.com/@cialone.codes](https://medium.com/@cialone.codes)
 
-- 💬 Ask me about **python, database design, and blockchain**
+- 💬 Ask me about **python, database design, & decentralized data**
 
 - 📫 How to reach me **cialone.codes@gmail.com**
 
