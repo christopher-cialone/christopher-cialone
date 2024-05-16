@@ -1,12 +1,12 @@
 ### Thanks for stopping by  👋
 
 
-<h1 align="center">👋, I'm Christopher Cialone</h1>
+<h1 align="center">👋 I'm Christopher Cialone</h1>
 <h3 align="center">A backend developer/freelancer from New York</h3>
 
 - ⚡ I’m currently **better than I was yesterday** 
 
-- 👯 I’m looking to collaborate on **decentralized, distributed application & or systems**
+- 👯 I’m looking to collaborate on **change the world with decentralized & distributed application & or systems**
 
 - 👨‍💻 All of my projects are available at [www.beresilient.biz](www.beresilient.biz)
 
