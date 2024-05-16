@@ -1,8 +1,8 @@
-### Thanks for stopping by  👋
+### *Hey Now*  👋
 
 
 <h1 align="center">👋 I'm Christopher Cialone</h1>
-<h3 align="center">A backend developer/freelancer from New York</h3>
+<h3 align="center">*Backend developer | Freelancer Dev from NYC</h3>
 
 - ⚡ I’m currently **better than I was yesterday** 
 
@@ -12,13 +12,13 @@
 
 - 📝 I regularly write articles on [https://medium.com/@cialone.codes](https://medium.com/@cialone.codes)
 
-- 💬 Ask me about **python, database design, & decentralized data**
+- 💬 Ask me about **python, database design, or decentralized networks**
 
 - 📫 How to reach me **cialone.codes@gmail.com**
 
-- 📄 Know about my experiences [https://hashnode.com/@cialoneCodes](https://hashnode.com/@cialoneCodes)
+- 📄 More about my experiences [https://hashnode.com/@cialoneCodes](https://hashnode.com/@cialoneCodes)
 
-- ⚡ Fun fact **I used to be a private investigator**
+- ⚡ Fun tidbit **I used to be a private investigator**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
