@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **change the world with decentralized & distributed application & or systems**
 
-- 👨‍💻 All of my projects are available at [www.beresilient.biz](www.beresilient.biz)
+- 👨‍💻 My website is available at [www.beresilient.biz](www.beresilient.biz)
 
 - 📝 I regularly write articles on [https://medium.com/@cialone.codes](https://medium.com/@cialone.codes)
 
