@@ -1,18 +1,18 @@
 ### *Decentralized & Distributed Application Development*  👋
 
 
-<h1 align="center">👋 I'm Christopher Cialone</h1>
-<h3 align="center">Backend developer | Freelancer Dev from NYC</h3>
+<h1 align="center">👋 My name is Christopher Cialone</h1>
+<h3 align="center">Developing Decentralized Applications & Networks</h3>
 
-- ⚡ I’m currently **doing better than I was yesterday** 
+- ⚡ I’m currently **building more than a marketplace** 
 
 - 👯 I’m looking to collaborate on **improving the lives of users, with decentralized & distributed application**
 
-- 👨‍💻 My website is available at [www.beresilient.biz](www.beresilient.biz)
+- 👨‍💻 My website is available at [(https://bento.me/rosalone)]
 
 - 📝 I regularly write articles on [https://medium.com/@cialone.codes](https://medium.com/@cialone.codes)
 
-- 💬 Ask me about **python, database design, or decentralized networks**
+- 💬 Ask me about **the decentrazlized web, censorship resistant software user ownership of data**
 
 - 📫 How to reach me **cialone.codes@gmail.com**
 
