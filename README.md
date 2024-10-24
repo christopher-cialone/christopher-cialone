@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **improving the lives of users, with decentralized & distributed application**
 
-- 👨‍💻 My website is available at [(https://bento.me/rosalone)]
+- 👨‍💻 My website is available at https://bento.me/rosalone
 
 - 📝 I regularly write articles on [https://medium.com/@cialone.codes](https://medium.com/@cialone.codes)
 
