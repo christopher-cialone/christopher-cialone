@@ -1,7 +1,7 @@
 ### *Decentralized & Distributed Application Development*  👋
 
 
-<h1 align="center">👋 My name is Christopher Cialone</h1>
+<h1 align="center">👋 I'm Christopher, I build cool shit</h1>
 <h3 align="center">Developing Decentralized Applications & Networks</h3>
 
 - ⚡ I’m currently **building more than a marketplace** 
