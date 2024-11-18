@@ -2,9 +2,9 @@
 
 
 <h1 align="center">👋 I'm Christopher, I transform ideas into action</h1>
-<h3 align="center">Developing Un-developed Ideas</h3>
+<h3 align="center">Developing un-developed ideas</h3>
 
-- ⚡ I’m currently **building more than a marketplace** 
+- ⚡ I’m currently **changing the way users interact with services. I am building a decentralized marketplace with cross-chain operability: harnessing the speed of Solana's network, the ability to vault Bitcoin, and meaningful interaction betweeen users and businesses including a review/reputation aspect incentivizing services to tailor to user's needs + wants** 
 
 - 👯 I’m looking to collaborate on **improving the lives of users, with decentralized & distributed application**
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **why we as developers and engineers must better educate users in regard to the inevitability of decentralization -- or the inevitability of corporate tyranny**
 
-- 📫 How to reach me **chris@rosalone.com**
+- 📫 Email me @ **chris@rosalone.com**
 
 - 📄 More about my experiences [https://hashnode.com/@cialoneCodes](https://hashnode.com/@cialoneCodes)
 
