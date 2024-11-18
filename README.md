@@ -1,4 +1,4 @@
-### *Censorship Resistance: Decentralized and Distributed Software Solutions*  
+### *Censorship Resistance: Decentralized and Distributed Software Solutions*  :rocket: 
 
 
 <h1 align="center"> :test_tube:  I'm Christopher, I transform ideas into action</h1>
@@ -6,7 +6,7 @@
 
 - ⚡ I’m currently **changing the way users interact with services. I am building a decentralized marketplace with cross-chain operability: harnessing the speed of Solana's network, the ability to vault Bitcoin, and meaningful interaction betweeen users and businesses including a review/reputation aspect incentivizing services to tailor to user's needs + wants** 
 
-- 👯 I’m looking to collaborate on **improving the lives of acutal people through decentralized & distributed applications + systems**
+- :coffee:   I’m looking to collaborate on **improving the lives of acutal people through decentralized & distributed applications + systems**
 
 - 👨‍💻 My website is available at *https://www.rosalone.com/*
 
