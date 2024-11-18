@@ -1,8 +1,8 @@
-### *Decentralized & Distributed Application Development*  👋
+### *Censorship Resistance: Decentralized and Distributed Software Solutions*  👋
 
 
-<h1 align="center">👋 I'm Christopher, I build cool shit</h1>
-<h3 align="center">Developing Decentralized Applications & Networks</h3>
+<h1 align="center">👋 I'm Christopher, I transform ideas into action</h1>
+<h3 align="center">Developing Un-developed Ideas</h3>
 
 - ⚡ I’m currently **building more than a marketplace** 
 
