@@ -10,7 +10,7 @@
 
 - 👨‍💻 My website is available at *https://www.rosalone.com/*
 
-- :ninja::skin-tone-1:  There is an organized attempt to censor and manipulate the information we receive, I, and others like me are here to change that
+- :ninja: There is an organized attempt to censor and manipulate the information we receive, I, and others like me are here to change that
 
 - 💬 Ask me about **why we as developers and engineers must better educate users in regard to the inevitability of decentralization -- or the inevitability of corporate tyranny**
 
