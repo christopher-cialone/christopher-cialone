@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **the decentrazlized web, censorship resistant software user ownership of data**
 
-- 📫 How to reach me **cialone.codes@gmail.com**
+- 📫 How to reach me **chris@rosalone.com**
 
 - 📄 More about my experiences [https://hashnode.com/@cialoneCodes](https://hashnode.com/@cialoneCodes)
 
