@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@cialone.codes](https://medium.com/@cialone.codes)
 
-- 💬 Ask me about **the decentrazlized web, censorship resistant software user ownership of data**
+- 💬 Ask me about **why we as developers and engineers must better educate users in regard to the inevitability of decentralization -- or the inevitability of corporate tyranny**
 
 - 📫 How to reach me **chris@rosalone.com**
 
