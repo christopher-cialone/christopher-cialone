@@ -2,7 +2,7 @@
 
 
 <h1 align="center"> :test_tube:  I'm Christopher, I transform ideas into action</h1>
-<h3 align="center">**developing un-developed ideas**</h3>
+<h3 align="center">developing un-developed ideas</h3>
 
 - ⚡ I’m currently **changing the way users interact with services. I am building a decentralized marketplace with cross-chain operability: harnessing the speed of Solana's network, the ability to vault Bitcoin, and meaningful interaction betweeen users and businesses including a review/reputation aspect incentivizing services to tailor to user's needs + wants** 
 
@@ -20,9 +20,6 @@
 
 - ⚡ Fun tidbit **I used to be a private investigator**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://hashnode.com/@cialonecodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@cialonecodes" height="30" width="40" /></a>
-<a href="https://medium.com/@cialone.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cialone.codes" height="30" width="40" /></a>
-</p>
+<h3 align="left">be your own hero</h3>
+
 
