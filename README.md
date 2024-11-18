@@ -1,4 +1,4 @@
-### *Censorship Resistance: Decentralized and Distributed Software Solutions*  👋
+### *Censorship Resistance: Decentralized and Distributed Software Solutions*  :test_tube: 
 
 
 <h1 align="center">👋 I'm Christopher, I transform ideas into action</h1>
