@@ -1,8 +1,8 @@
-### *Censorship Resistance: Decentralized and Distributed Software Solutions*  :rocket: 
+### *Censorship Resistance: Decentralized & Distributed Software Solutions*  :rocket: 
 
 
-<h1 align="center"> :test_tube:  I'm Christopher - I transform ideas into action</h1>
-<h3 align="center">creating decentralized, distributed solutions for the betterment of both users & service providers</h3>
+<h1 align="center"> :test_tube:  Building software solutions based on my principles</h1>
+<h3 align="center">creating decentralized, distributed software for the betterment of both users & service providers</h3>
 
 - ⚡ I’m currently **changing the way users interact with services & providers interact with users. I am building a decentralized peer to peer marketplace with cross-chain operability: Meaningful interaction betweeen users and businesses is missing from most equations. I will be including a review/reputation aspect which will serve to incentivize services to consider their users when providing services** 
 
@@ -20,6 +20,6 @@
 
 - ⚡ Fun tidbit **I used to be a private investigator**
 
-<h3 align="left">*we are being manipulated by curated content, to abandon our privacy pay in either currency or attention. Take back the power*</h3>
+<h3 align="left">principled developers must build upon our principles -- not compromised frameworks</h3>
 
 
