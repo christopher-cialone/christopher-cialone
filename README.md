@@ -1,7 +1,7 @@
 ### *Censorship Resistance: Decentralized & Distributed Software Solutions*  :rocket: 
 
 
-<h1 align="center"> :test_tube:  Building software solutions on the foundation of principles</h1>
+<h1 align="center"> :test_tube:  Building software solutions on a foundation of principles</h1>
 <h3 align="center">creating decentralized, distributed software for the betterment of both users & service providers</h3>
 
 - ⚡ I’m currently **building an educational web3 platform by incorporating elements of wagering, gaming & investment principles wrapped in a fun gamified interface. I envision an ecosystem of cross-chain inter-operability which first educates, communicates & commerce interaction, in a peer to peer manner -- outside the influence of Corporate Networks: Meaningful interaction betweeen users and businesses is missing from most equations. I will be including a review/reputation aspect which will serve to incentivize services to consider their users when providing services** 
