@@ -1,18 +1,18 @@
-### *Censorship Resistance: Decentralized & Distributed Software Solutions*  :rocket: 
+### *Building Useful Applications: Censorship Resistant,Decentralized & Distributed Software Solutions*  :rocket: 
 
 
-<h1 align="center"> :test_tube:  Building software solutions on a foundation of principles</h1>
-<h3 align="center">creating decentralized, distributed software for the betterment of both users & service providers</h3>
+<h1 align="center"> :test_tube:  Finding a way to make things work</h1>
+<h3 align="center">the human spirit can accomplish all that an imagination can picture</h3>
 
-- ⚡ I’m currently **building an educational web3 platform by incorporating elements of wagering, gaming & investment principles wrapped in a fun gamified interface. I envision an ecosystem of cross-chain inter-operability which first educates, communicates & commerce interaction, in a peer to peer manner -- outside the influence of Corporate Networks: Meaningful interaction betweeen users and businesses is missing from most equations. I will be including a review/reputation aspect which will serve to incentivize services to consider their users when providing services** 
+- ⚡ I’m currently **building a business simulator disguised as a game onchian** 
 
-- :coffee:   I’m am consistantly working on **improving the lives of acutal people through emerging technology trends**
+- :coffee:   Without fuel, how far could we go? **make learning fun**
 
 - 👨‍💻 Check out the website @ *https://www.rosalone.com/*
 
-- :ninja: **There is an organized attempt to censor and manipulate the information we receive, as well as undermine the value of our money. I, and others like me, are hard at work attempting to change that. Join the resistance. We want the truth Free Roger Ver, Free Samurai Wallet Devs**
+- :ninja: **Protect your privacy at the cost of conveniance**
 
-- 💬 Ask me about **why we as developers and engineers must better educate users in regard to the inevitability of decentralization -- or the inevitability of corporate tyranny**
+- 💬 Ask me about **ownership is paramount to digital freedom**
 
 - 📫 Email me @ **chris@rosalone.com**
 
