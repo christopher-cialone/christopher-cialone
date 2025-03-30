@@ -2,7 +2,7 @@
 
 
 <h1 align="center"> :test_tube:  Finding a way to make things work</h1>
-<h3 align="center">the human spirit can accomplish all that an imagination can picture</h3>
+<h3 align="center">the human spirit can accomplish all that it's imagination can picture</h3>
 
 - ⚡ **I’m currently building a business simulator disguised as a game on chain** 
 
