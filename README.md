@@ -12,12 +12,11 @@
 
 - :ninja: **Protect your privacy at the cost of conveniance**
 
-- 💬 Ask me about **ownership is paramount to digital freedom**
+- 💬 **Ownership is paramount to digital freedom**
 
-- 📫 Email me @ **chris@rosalone.com**
+- 📫 Email me @ **cialone.codes@gmail.com**
 
-- 📄 More about my experiences [https://hashnode.com/@cialoneCodes](https://hashnode.com/@cialoneCodes)
-
+- 📄 Read/Mint my writing: [(https://paragraph.xyz/@cialonecodes)]
 - ⚡ Fun tidbit **I used to be a private investigator**
 
 <h3 align="left">principled developers must build upon our principles -- not compromised frameworks</h3>
