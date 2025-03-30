@@ -18,7 +18,7 @@
 
 - ⚡ **Fun tidbit I used to be a private investigator**
 
-- :construction_site:  **Check out the website @ *https://www.rosalone.com/***
+- :test_tube:   **Check out the website @ *https://www.rosalone.com/***
 
 <h3 align="left">principled developers must build upon our principles -- not compromised frameworks</h3>
 
