@@ -17,7 +17,9 @@
 - 📫 **Email me @ cialone.codes@gmail.com**
 
 - 📄 **Read/Mint my writing: https://paragraph.xyz/@cialonecodes**
-- 
+  
+- :game_die: **no risk, no reward**
+
 - ⚡ Fun tidbit **I used to be a private investigator**
 
 <h3 align="left">principled developers must build upon our principles -- not compromised frameworks</h3>
