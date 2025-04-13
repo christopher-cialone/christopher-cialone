@@ -18,7 +18,7 @@
 
 - ⚡ **Fun tidbit I used to be a private investigator**
 
-- :test_tube:   **Check out the website @ *https://www.rosalone.com/***
+- :test_tube:   **Get on the Waiting List for BRB: Bull Run Boost on the Solana Network @ *https://bullrunboost.xyz/***
 
 <h3 align="left">principled developers must build upon our principles -- not compromised frameworks</h3>
 
