@@ -1,10 +1,10 @@
-### *Builders Build Things | Decentralized, Distributed Software Solutions*  :rocket: 
+### *Builders Build Things*  :rocket: 
 
 
 <h1 align="center"> :test_tube:  Finding a way to make things work</h1>
-<h3 align="center">the wolves never wonder what the sheep think about them</h3>
+<h3 align="center">without privacy, we will have zero freedom -- even choice will be taken away without privacy</h3>
 
-- ⚡ **I’m currently creating gamified education applications for the next round of builders** 
+- ⚡ **I’m currently building a gamified education ecosystem on Solana for the next generation of builders & creators** 
 
 - :ninja: **Protect your privacy from data theives**
 
@@ -14,9 +14,7 @@
 
 - 📄 **Read/Mint my writing: https://paragraph.xyz/@cialonecodes**
   
-- :game_die: **Risk Tolerance determines your success threshold**
-
-- ⚡ **Fun tidbit I used to be a private investigator**
+- :game_die: **No Risk, No Reward**
 
 - :test_tube:   **Join a community inspired by cypherpunk builders @ BRB: Bull Run Boost on the Solana Network @ *https://shadowranch.xyz/***
 
