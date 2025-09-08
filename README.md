@@ -1,7 +1,7 @@
 ### *Builders Build*   🏗️
 
 
-<h1 align="center"> 🪄 There is always a way</h1>
+<h1 align="center"> 🪄 Technologist | Developer | Founder </h1>
 <h3 align="center">the way you do anything, is the way you do everything</h3> 
 
 - ⚡ **I’m currently building useful applications on Solana** 📦
