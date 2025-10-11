@@ -1,4 +1,4 @@
-### *Builders Build*  🏴‍☠️ 🏗️
+### *We must defend our own privacy if we expect to have any. We must come together and create systems which allow anonymous transactions to take place*  🏴‍☠️ 🏗️
 
 
 <h1 align="center"> 💾 Builder | Founder | New Yorker </h1>
