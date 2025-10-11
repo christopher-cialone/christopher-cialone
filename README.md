@@ -1,14 +1,12 @@
 ### *Builders Build*  🏴‍☠️ 🏗️
 
 
-<h1 align="center"> 💾 Technologist | Developer | Founder </h1>
+<h1 align="center"> 💾 Builder | Founder | New Yorker </h1>
 <h3 align="center">the way you do anything, is the way you do everything</h3> 
 
-- ⚡ **The principles of decentralization, user ownership & privacy guide development** 
+- ⚡ **Permissionless. Private. Censorship Resistant. Decentralized.** 
 
-- :ninja: **Protect your privacy** 🪤
-
-- 💬 **Ownership is paramount to digital freedom**
+- :ninja: **Become the kind of person who can solve important problems** 🪤
 
 - 📫 **Email me @ cialone.codes@gmail.com**
 
