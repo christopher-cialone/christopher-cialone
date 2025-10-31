@@ -2,11 +2,11 @@
 
 
 <h1 align="center">💾 Guerilla Developer</h1>
-<h3 align="center">⚡ Creating Unstoppable, Private Applications on Solana 🔮</h3> 
+<h3 align="center">⚡ Creating Unstoppable, Private Applications 🔮</h3> 
 
-- 💻 **Full-stack developer with deep proficiency in Python, JavaScript (vast array of libraries), React, TypeScript, & React Native, enabling me to build and deploy cross-platform applications.** Additionally I have built and published applications to the App Store, delivering end-to-end solutions across web, mobile, and blockchain platforms. Hands-on experience in Solana program development using Rust.
+- 💻 **Full-stack developer with deep proficiency in 🐍 Python, JavaScript (vast array of libraries), React, TypeScript, & React Native, enabling me to build and deploy cross-platform applications. Quickly becoming a rustacean 🦀** Additionallym I have built and published applications to the App Store, delivering end-to-end solutions across web, mobile, and blockchain platforms. Hands-on experience in Solana program development using ⚓️ Anchor Framework & Rust.
   
-- 📄 **Read/Mint my writing: https://paragraph.xyz/@cialonecodes**
+- 📄 **SubStack: https://christophercialone.substack.com/**
   
 - 🎓 **Challenging assumptions through technology**
 
